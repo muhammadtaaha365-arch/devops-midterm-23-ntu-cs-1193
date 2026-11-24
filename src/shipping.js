@@ -10,3 +10,4 @@ function fee(weightKg) {
   return 1500;
 }
 module.exports = { fee };
+

@@ -10,3 +10,4 @@ package: test
 	npm pack
 
 ci: lint test package
+

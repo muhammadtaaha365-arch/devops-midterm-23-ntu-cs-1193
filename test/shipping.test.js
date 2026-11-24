@@ -10,3 +10,4 @@ test('zero or negative weight is rejected', () => {
   assert.throws(() => fee(0), RangeError);
   assert.throws(() => fee(-2), RangeError);
 });
+
